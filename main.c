@@ -2,6 +2,6 @@
 
 int main()
 {
-	int a,b;
+	int a,b, c=53;
 	return 0;
 }
